@@ -1,5 +1,3 @@
-Dossier contenant le code de A Star
-
 ## Optimisation
 Piste pour optimiser A Star
 - Reduire la map en fusionnant les pixels par groupe de 4 faire la moyenne des hauteurs.
