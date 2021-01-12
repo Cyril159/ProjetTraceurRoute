@@ -1,4 +1,4 @@
-# Résumé du projet
+## Résumé du projet
 
 On souhaite à partir d'un terrain donné, d'un point de départ et d'un point d'arrivée trouver une route optimale en terme de coût, ou en terme de distance ou les deux.
 Le terrain pourra être fourni par l'utilisateur ou généré pseudo aléatoirement grâce aux proportions de chaque élément (montagnes, fleuves, zone protégée) entrées par l'utilisateur.
@@ -8,6 +8,11 @@ Le programme va procéder en quatre étapes :
 - Demander un point de départ et un point d'arrivée à l'utilisateur.
 - Calculer le tracé de la route la plus optimale possible en rajoutant si nécessaire des ponts ou tunnels.
 - Afficher en 3D le tracé optimal trouvé.
+
+##Quelques images du rendu
+![rendu1](https://github.com/Cyril159/ProjetTraceurRoute/blob/main/rendu1.png)
+
+![rendu2](https://github.com/Cyril159/ProjetTraceurRoute/blob/main/rendu2.png)
 
 ## Outils utilisés :
 Moteur 3D : Unity
