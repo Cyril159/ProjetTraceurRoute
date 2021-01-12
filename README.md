@@ -20,7 +20,7 @@ Moteur 3D : Unity
 
 IDE : IDEA Intellij, Atom
 
-## Langages informatiques utilisés :
+## Langages utilisés :
 + Java
 + C Sharp (C#)
-+ LaTeX (pour les différents jalons et rapports)
+
