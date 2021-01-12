@@ -16,9 +16,8 @@ Le programme va procéder en quatre étapes :
 ![rendu2](https://github.com/Cyril159/ProjetTraceurRoute/blob/main/rendu2.png)
 
 ## Outils utilisés :
-Moteur 3D : Unity
-
-IDE : IDEA Intellij, Atom
++ Moteur 3D : Unity
++ IDE : IDEA Intellij, Atom
 
 ## Langages utilisés :
 + Java
